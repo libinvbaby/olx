@@ -1,0 +1,32 @@
+li{
+  list-style-type:none;
+  
+}
+
+
+.footerParentDiv {
+  width: 100%;
+  background: #ebeeef;
+}
+.footerParentDiv .content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #ebeeef;
+  padding: 20px;
+}
+ 
+ .footer {
+  justify-content: center;
+  align-items: center;
+  
+  background: #002f34;
+  color: whitesmoke;
+}
+
+.footer p {
+  margin: 0;
+}
+h2{
+  text-align: center;
+}
